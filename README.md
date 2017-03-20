@@ -16,3 +16,10 @@ The current version of the scripts demonstrate how I made distribution maps for 
 The source, eBird Basic Dataset (EBD) was retrieved from eBrid on Sept. 11, 2015 under eBird's user agreement. First, I used the script `peek.py` to obtain test data. Then `extract.py` was executed to single out the record of interest. After this, I used various other python and R scripts to further process the data, and visualize them on maps.
 
 The Python package of `gzip`, and the R packages of `maps`, `mapdata` and `scale` were used.
+
+## Results
+Some selected results are like this:
+
+![Distribution of *Apus apus* by the months](https://raw.githubusercontent.com/MengXiangxi/eBird-Statistics/master/Apus/Adist_gif.gif)
+
+![Distribution of *Parus spp.*](https://raw.githubusercontent.com/MengXiangxi/eBird-Statistics/master/Parurs/pdist.png)
