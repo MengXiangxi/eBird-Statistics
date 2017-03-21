@@ -1,6 +1,8 @@
 import gzip
 
-with gzip.open('D:/eBird/ebd_sampling_relAug-2015.tar', 'rb') as rawData:
-    with open('peek.txt','w') as resultData1:
+with gzip.open('D:/eBird/ebd_relAug-2015.txt.gz', 'rb') as rawData:
+    with open('D:/eBird/peek.txt','w') as resultData1:
         for i in range(1,100):
-            resultData1.write(rawData.readline())
+            data = rawData.readline()
+            print(data)
+            resultData1.write(data)
