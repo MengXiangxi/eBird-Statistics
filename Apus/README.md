@@ -11,7 +11,7 @@
 
 普通楼燕是一种擅长飞行的鸟，一般是在空中观察到，因而难以分辨它的细节。当看到一群翼展修长的鸟以优雅的姿态疾速飞过，配合很容易分辨的高频叫声，就能准确无误的识别出这种城市中并不罕见的夏候鸟。一般观察飞行的普通楼燕也就只能看出一个剪影来，再仔细分辨一下可以看到分叉的尾羽——这大概是它名字里面带有“燕”的原因之一。据说北京风筝的最经典形状——沙燕儿，就是取自普通楼燕的形状，从剪影看来还真颇有几分相似。
 
-![图X：普通楼燕的剪影。根据[CC BY-SA-2.0](https://creativecommons.org/licenses/by-sa/2.0/)修改自[Wikimedia](https://commons.wikimedia.org/wiki/File:Apus_apus_-Barcelona,_Spain-8_(1).jpg)，本图像以相同证书共享。](https://raw.githubusercontent.com/MengXiangxi/eBird-Statistics/master/Apus/Apus_silhouette.gif)
+![图X：普通楼燕的剪影。根据[CC BY-SA-2.0](https://creativecommons.org/licenses/by-sa/2.0/)修改自[Wikimedia](https://commons.wikimedia.org/wiki/File:Apus_apus_-Barcelona,_Spain-8_(1).jpg) ，本图像以相同证书共享。](https://raw.githubusercontent.com/MengXiangxi/eBird-Statistics/master/Apus/Apus_silhouette.gif)
 ><center>图2：普通楼燕的剪影。根据[CC BY-SA-2.0](https://creativecommons.org/licenses/by-sa/2.0/) 修改自Wikimedia，原始文件来自[Flickr](https://www.flickr.com/photos/7686882@N08/4560391937/) ，本图像以相同证书共享。</center>
 
 关于普通楼燕不得不指出的是，它们的有特殊的爪，为了适应攀缘而特化成四趾全向前的前趾足形式。一般认为正是这种足型导致了雨燕无法直接从地面起飞，而只有攀附在垂直的壁面上才能正常飞行。普通楼燕和白腰雨燕的鉴别方法，一方面是白腰雨燕的体型要大一些，另一方面是白腰雨燕常能在腰间看到白斑，而普通楼燕一般只有头部是白色的。
@@ -46,8 +46,8 @@ eBird是奥杜邦协会和康奈尔大学共同建立的观鸟记录数据库，
 
 这种技术已经率先应用于普通楼燕欧洲亚种的研究当中。今年一篇文章（L.B. Jacobsen, et al. **Animal Biotelemetry** 5.1:4）介绍了2010年前后丹麦科学家对于三种鸟类的跟踪数据，其中就包括普通楼燕。本文采用开放获取模式，数据可供下载，于是我摘取了一只典型普通楼燕的迁徙路线绘制出来。另一篇早先的研究（S. Åkesson, et al.**PLoS One** 7.7:e41195.）也给出了相似的结果。
 
-![图X：文献报道的普通楼燕从欧洲开始的迁徙路线。数据通过[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)协议获取，原文引用如图所示。](https://raw.githubusercontent.com/MengXiangxi/eBird-Statistics/Apus_writing/Apus_reanalysis/21283.png)
-><center>图6：文献报道的普通楼燕从欧洲开始的迁徙路线。数据通过[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/)协议获取，原文引用如图所示。</center>
+![图X：文献报道的普通楼燕从欧洲开始的迁徙路线。数据通过[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) 协议获取，原文引用如图所示。](https://raw.githubusercontent.com/MengXiangxi/eBird-Statistics/Apus_writing/Apus_reanalysis/21283.png)
+><center>图6：文献报道的普通楼燕从欧洲开始的迁徙路线。数据通过[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) 协议获取，原文引用如图所示。</center>
 
 这只普通楼燕进入几内亚湾后有些数据异常，所以我删除了一部分数据。另外在刚果（金）附近过冬时，怀疑是传感器信号不甚稳定，造成纬度偏差较大。这种问题也是探测原理所决定的。
 
