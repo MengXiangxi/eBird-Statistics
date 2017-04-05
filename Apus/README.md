@@ -58,8 +58,8 @@ eBird是奥杜邦协会和康奈尔大学共同建立的观鸟记录数据库，
 
 该项目的地点选在了颐和园廓如亭，因为普通楼燕有依恋旧巢址的习性，当年在此地安装探测器的鸟，次年还很有可能回到原地。项目开始的2014年，工作人员在颐和园安装了31个定位器。2015年雨燕回来后，他们回收到了其中13个。
 
-![图X：工作人员释放安装定位器的普通楼燕。 Zhang Weimin拍摄](https://raw.githubusercontent.com/MengXiangxi/eBird-Statistics/master/Apus/Swift_with_geolocator.jpg)
-><center>图8：工作人员释放安装定位器的普通楼燕。Zhang Weimin拍摄</center>
+![图X：工作人员释放安装定位器的普通楼燕。 Zhang Weimin拍摄](https://raw.githubusercontent.com/MengXiangxi/eBird-Statistics/master/Apus/release_swift.jpg)
+><center>图8：工作人员释放安装定位器的普通楼燕。Zhang Weimin拍摄。</center>
 
 这组数据让我们对普通楼燕北京亚种（或者我们更喜欢称其为北京雨燕）的迁徙过程有了更加深刻的认识。初步的数据中，我们可以看到，普通楼燕北京亚种从北京出发后，沿着蒙古高原-天山山脉附近-中亚地区画出一个漂亮的弧线，并从波斯湾附近穿越阿拉伯半岛进入非洲大陆。这时候有的鸟还会在里海附近逗留。在之前关于欧洲亚种的研究中，中东地区的数据很少，结合eBird的迁徙趋势来看这里的普通楼燕很可能是北京亚种为主。经过红海后，这些普通楼燕分成了两拨：一部分在更靠近地中海的撒哈拉沙漠停留，另一部分在撒哈拉沙漠以南的刚果盆地附近停留。
 
