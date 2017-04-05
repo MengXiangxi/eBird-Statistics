@@ -49,7 +49,7 @@ eBird是奥杜邦协会和康奈尔大学共同建立的观鸟记录数据库，
 
 这种技术已经率先应用于普通楼燕欧洲亚种的研究当中。今年一篇文章（L.B. Jacobsen, et al. **Animal Biotelemetry** 5.1:4）介绍了2010年前后丹麦科学家对于三种鸟类的跟踪数据，其中就包括普通楼燕。本文采用开放获取模式，数据可供下载，于是我摘取了一只典型普通楼燕的迁徙路线绘制出来。另一篇早先的研究（S. Åkesson, et al.**PLoS One** 7.7:e41195.）也给出了相似的结果。
 
-![图X：文献报道的普通楼燕从欧洲开始的迁徙路线。数据通过[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) 协议获取，原文引用如图所示。](https://raw.githubusercontent.com/MengXiangxi/eBird-Statistics/Apus_writing/Apus_reanalysis/Apus_apus_track.gif)
+![图X：文献报道的普通楼燕从欧洲开始的迁徙路线。数据通过[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) 协议获取，原文引用如图所示。](https://raw.githubusercontent.com/MengXiangxi/eBird-Statistics/master/Apus_reanalysis/Apus_apus_track.gif)
 ><center>图7：文献报道的普通楼燕从欧洲开始的迁徙路线。数据通过[CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/) 协议获取，原文引用如图所示。</center>
 
 这只普通楼燕进入几内亚湾后有些数据异常，所以我删除了一部分数据。另外在刚果盆地附近过冬时，怀疑是传感器信号不甚稳定，造成纬度偏差较大，因此我删除了2011年2-4月的全部数据。这究竟是探测器失灵，还是普通楼燕的独特迁徙行为，我还不清楚。
