@@ -94,3 +94,5 @@ eBird是奥杜邦协会和康奈尔大学共同建立的观鸟记录数据库，
 ><center>图10：康奈尔鸟类学实验室绘制的美洲鸟类迁徙路径。经作者允许，复制自 [All About Birds ](https://www.allaboutbirds.org/mesmerizing-migration-watch-118-bird-species-migrate-across-a-map-of-the-western-hemisphere/) 网站。</center>
 
 看了这篇工作我的体会是，在数据科学水平突飞猛进的今天，高质量的公众科学数据将会对科学本身的发展带来新的机遇。如果你已经准备好推动人类对自然认知的极限，那么请积极的向公众科学数据库贡献你高质量的观测记录。
+
+> 感谢Terry Townshend (Birding Beijing)和Pat Leonard (Cornell Lab of Ornithology)帮助获得使用图片授权。
